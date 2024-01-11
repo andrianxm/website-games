@@ -1,8 +1,0 @@
-body {
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-}
-
-h1:hover {
-    cursor: pointer;
-}
